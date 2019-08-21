@@ -15,7 +15,7 @@ reverseToK(k, arr) // [4, 3, 2, 1, 5, 6]
 arr2[] = [5, 7, 8, 4, 1, 3]
 k = 2
 
-reverseToK(k, arr) // [5, 7, 3, 1, 4, 8]
+reverseToK(k, arr) // [7, 5, 8, 4, 1, 3]
 
 
 ```
